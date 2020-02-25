@@ -1,2 +1,2 @@
 # Human-Development-Index-betareg-
-Costruzione di un modello di regressione beta per definire come alcune covariate possono influire sulla determinazione del valore dell'Indice di Sviluppo Umano.
+Costruzione di un modello di regressione beta al fine di comprendere quali covariate influiscono sulla determinazione del valore dell'Indice di Sviluppo umano di vari paesi.
